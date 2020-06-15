@@ -83,7 +83,7 @@ Again, the list should be sorted in descending order. That is, according to this
 
 Can you notice an improvement in performance compared to measuring both the computation of the index and the computation of the ranking as we did in attempt #2? If so, can you think of a reason?
 
-## stackoverflow data link
+## Stackoverflow task
 To start, first download the assignment: stackoverflow.zip. For this assignment, you also need to download the data (170 MB):
 
 http://alaska.epfl.ch/~dockermoocs/bigdata/stackoverflow.csv
